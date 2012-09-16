@@ -24,7 +24,7 @@ class Struct; module Default_Value
 
     # @param [Symbol, String, #to_sym] autonym
     # @return [nil]
-    # @yiled [instance]
+    # @yield [instance]
     # @yieldparam [Struct] instance
     # @yieldreturn [nil]
     def default(autonym, *values, &block)
