@@ -1,3 +1,5 @@
+# coding: us-ascii
+
 class Struct; module Default_Value
   
   module SubclassInstanceMethods
