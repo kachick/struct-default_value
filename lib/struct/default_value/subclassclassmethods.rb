@@ -18,9 +18,7 @@ class Struct; module Default_Value
       end
     end
 
-    if respond_to? :private_constant
-      private_constant :Default
-    end
+    private_constant :Default
 
     private
 

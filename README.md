@@ -1,6 +1,9 @@
 struct-default_value
 ====================
 
+[![Build Status](https://secure.travis-ci.org/kachick/struct-default_value.png)](http://travis-ci.org/kachick/struct-default_value)
+[![Gem Version](https://badge.fury.io/rb/struct-default_value.png)](http://badge.fury.io/rb/struct-default_value)
+
 Description
 ------------
 
@@ -27,7 +30,7 @@ foo.birth_time  #=> time at generated
 Requirements
 ------------
 
-* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/struct-default_value)
+* [Ruby 1.9.3 or later](http://travis-ci.org/#!/kachick/struct-default_value)
 
 Install
 -------
@@ -36,14 +39,10 @@ Install
 $ gem install struct-default_value
 ```
 
-Build Status
-------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/struct-default_value.png)](http://travis-ci.org/kachick/struct-default_value)
-
 Link
 ----
 
+* [Home](http://kachick.github.com/struct-default_value)
 * [code](https://github.com/kachick/struct-default_value)
 * [API](http://kachick.github.com/struct-default_value/yard/frames.html)
 * [issues](https://github.com/kachick/struct-default_value/issues)
