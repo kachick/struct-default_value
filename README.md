@@ -30,7 +30,7 @@ foo.birth_time  #=> time at generated
 Requirements
 ------------
 
-* [Ruby 1.9.3 or later](http://travis-ci.org/#!/kachick/struct-default_value)
+* [Ruby 2.5 or later](http://travis-ci.org/#!/kachick/struct-default_value)
 
 Install
 -------
