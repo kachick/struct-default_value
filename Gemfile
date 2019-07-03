@@ -4,7 +4,7 @@ gemspec
 
 group :development do
   gem 'rake'
-  gem 'yard', '~> 0.8'
+  gem 'yard'
 end
 
 group :test do
