@@ -5,7 +5,6 @@ Gem::Specification.new do |gem|
 
   gem.description   = %q{Struct will have default values for each member.}
   gem.summary       = gem.description.dup
-  gem.homepage      = 'http://kachick.github.com/struct-default_value'
   gem.license       = 'MIT'
 
   gem.name          = 'struct-default_value'
